@@ -17,4 +17,4 @@
 ![Token Addresses](Screenshots/DeveloperTokenAddresses.PNG)
 
 ## Deploying Third Contract - PupperCoinCrowdSale.sol
-![Third Deployment](Screenshots/DeployingPupperCoinCrowdSale.PNG)
+![Third Deployment](Screenshots/DeployingPupperCoinCrowdsale.PNG)
